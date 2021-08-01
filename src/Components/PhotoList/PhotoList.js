@@ -1,4 +1,4 @@
-import React, { useEffect } from "react";
+import React from "react";
 
 import SinglePhoto from "./SinglePhoto";
 import styles from "./PhotoList.module.css";
