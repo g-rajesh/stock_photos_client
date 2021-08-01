@@ -6,7 +6,7 @@ import App from "./App";
 import "./index.css";
 
 const client = new ApolloClient({
-     uri: "http://localhost:4000",
+     uri: "https://unsplash-app-clone.herokuapp.com/",
      cache: new InMemoryCache({
           typePolicies: {
                Query: {
