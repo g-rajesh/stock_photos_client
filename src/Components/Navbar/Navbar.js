@@ -39,7 +39,7 @@ const Navbar = ({ setQuery }) => {
                     )}
                </form>
                <h3 className={styles.logo}>
-                    Unslash<span>.com</span>
+                    Unsplash<span>.com</span>
                </h3>
           </header>
      );
